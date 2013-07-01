@@ -1,0 +1,153 @@
+# WABOL TALK TRANSLATION.
+# Copyleft (C) 2012 ATLANTIS ZERO
+# STEPHEN PAUL CHAPPELL <NOCTIS.SKYTOWER@GMAIL.COM>, 2012.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Wabol Talk 0.9.2\n"
+"POT-Creation-Date: 2012-06-20 08:41+Central Daylight Time\n"
+"PO-Revision-Date: 2012-06-20 21:53-0600\n"
+"Last-Translator: Stephen Paul Chappell <Noctis.Skytower@gmail.com>\n"
+"Language-Team: Atlantis Zero <Noctis.Skytower@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+
+#: ..\..\Wabol Talk 0.9.2.pyw:36
+msgid "ERROR: There is not enough public text to cover the private text."
+msgstr "ERROR: No hay suficiente texto público para cubrir el texto privado."
+
+#: ..\..\Wabol Talk 0.9.2.pyw:37
+msgid "ERROR: This duplicated message may not be longer than the primer."
+msgstr "ERROR: Este mensaje duplicado no puede ser más largo que el inicialador."
+
+#: ..\..\Wabol Talk 0.9.2.pyw:44
+msgid "Wabol Talk 0.9.2"
+msgstr "Ablo Wabol 0.9.2"
+
+#: ..\..\Wabol Talk 0.9.2.pyw:79
+msgid "Public Message:"
+msgstr "Mensaje Público:"
+
+#: ..\..\Wabol Talk 0.9.2.pyw:81
+msgid "Private Message:"
+msgstr "Mensaje Privado:"
+
+#: ..\..\Wabol Talk 0.9.2.pyw:85
+msgid "Encode"
+msgstr "Codificar"
+
+#: ..\..\Wabol Talk 0.9.2.pyw:87
+#: 0.9.2.pyw:621
+msgid "Options"
+msgstr "Opciones"
+
+#: ..\..\Wabol Talk 0.9.2.pyw:89
+msgid "Decode"
+msgstr "Descodificar"
+
+#: ..\..\Wabol Talk 0.9.2.pyw:90
+msgid "Wabol Message:"
+msgstr "Mensaje Wabol:"
+
+#: ..\..\Wabol Talk 0.9.2.pyw:575
+msgid "OK"
+msgstr "Aceptar"
+
+#: ..\..\Wabol Talk 0.9.2.pyw:577
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: ..\..\Wabol Talk 0.9.2.pyw:638
+msgid "Parameters:"
+msgstr "Parámetros:"
+
+#: ..\..\Wabol Talk 0.9.2.pyw:640
+msgid "Primer Length:"
+msgstr "Duración de Inicialador:"
+
+#: ..\..\Wabol Talk 0.9.2.pyw:644
+msgid "Hint A:"
+msgstr "Indicio A:"
+
+#: ..\..\Wabol Talk 0.9.2.pyw:648
+msgid "Hint B:"
+msgstr "Indicio B:"
+
+#: ..\..\Wabol Talk 0.9.2.pyw:652
+msgid "K/P Creation:"
+msgstr "C/I Creación:"
+
+#: ..\..\Wabol Talk 0.9.2.pyw:656
+msgid "Use Preset Codes"
+msgstr "Utilice los Códigos Predeterminados"
+
+#: ..\..\Wabol Talk 0.9.2.pyw:661
+msgid "Allow Single Hint"
+msgstr "Permitir Solo Indicio"
+
+#: ..\..\Wabol Talk 0.9.2.pyw:666
+msgid "Allow Double Hints"
+msgstr "Permitir Indicios Dobles"
+
+#: ..\..\Wabol Talk 0.9.2.pyw:671
+msgid "Application:"
+msgstr "Aplicación:"
+
+#: ..\..\Wabol Talk 0.9.2.pyw:675
+msgid "Change Key"
+msgstr "Cambiar la Clave"
+
+#: ..\..\Wabol Talk 0.9.2.pyw:680
+msgid "Change Primer"
+msgstr "Cambiar Inicialador"
+
+#: ..\..\Wabol Talk 0.9.2.pyw:685
+msgid "Alter Key/Primer"
+msgstr "Alterar Clave / Inicialador"
+
+#: ..\..\Wabol Talk 0.9.2.pyw:690
+msgid "Priority:"
+msgstr "Prioridad:"
+
+#: ..\..\Wabol Talk 0.9.2.pyw:694
+msgid "Create Key First"
+msgstr "Crear Clave Primero"
+
+#: ..\..\Wabol Talk 0.9.2.pyw:699
+msgid "Create Primer First"
+msgstr "Crear Inicialador Primero"
+
+#: ..\..\Wabol Talk 0.9.2.pyw:704
+msgid "Assign Same Importance"
+msgstr "Asigna Misma Importancia"
+
+#: ..\..\Wabol Talk 0.9.2.pyw:822
+msgid "Illegal Character"
+msgstr "Símbolo Ilegal"
+
+#: ..\..\Wabol Talk 0.9.2.pyw:823
+msgid "Hint {} contains unacceptable text."
+msgstr "Indicio {} contiene un texto inaceptable."
+
+#: ..\..\Wabol Talk 0.9.2.pyw:828
+msgid "Insecure Password"
+msgstr "Contraseña Insegura"
+
+#: ..\..\Wabol Talk 0.9.2.pyw:829
+msgid "Hint {} must have greater security."
+msgstr "Indicio {} debe tener una mayor seguridad."
+
+#: ..\..\Wabol Talk 0.9.2.pyw:952
+msgid "Language:"
+msgstr "Idioma:"
+
+#: ..\..\Wabol Talk 0.9.2.pyw:956
+msgid "English"
+msgstr "Inglés"
+
+#: ..\..\Wabol Talk 0.9.2.pyw:960
+msgid "Spanish"
+msgstr "Español"
+

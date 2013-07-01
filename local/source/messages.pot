@@ -1,0 +1,152 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2012-06-20 08:41+Central Daylight Time\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: ENCODING\n"
+"Generated-By: pygettext.py 1.5\n"
+
+
+#: ..\..\Wabol Talk 0.9.2.pyw:36
+msgid "ERROR: There is not enough public text to cover the private text."
+msgstr ""
+
+#: ..\..\Wabol Talk 0.9.2.pyw:37
+msgid "ERROR: This duplicated message may not be longer than the primer."
+msgstr ""
+
+#: ..\..\Wabol Talk 0.9.2.pyw:44
+msgid "Wabol Talk 0.9.2"
+msgstr ""
+
+#: ..\..\Wabol Talk 0.9.2.pyw:79
+msgid "Public Message:"
+msgstr ""
+
+#: ..\..\Wabol Talk 0.9.2.pyw:81
+msgid "Private Message:"
+msgstr ""
+
+#: ..\..\Wabol Talk 0.9.2.pyw:85
+msgid "Encode"
+msgstr ""
+
+#: ..\..\Wabol Talk 0.9.2.pyw:87 ..\..\Wabol Talk 0.9.2.pyw:621
+msgid "Options"
+msgstr ""
+
+#: ..\..\Wabol Talk 0.9.2.pyw:89
+msgid "Decode"
+msgstr ""
+
+#: ..\..\Wabol Talk 0.9.2.pyw:90
+msgid "Wabol Message:"
+msgstr ""
+
+#: ..\..\Wabol Talk 0.9.2.pyw:575
+msgid "OK"
+msgstr ""
+
+#: ..\..\Wabol Talk 0.9.2.pyw:577
+msgid "Cancel"
+msgstr ""
+
+#: ..\..\Wabol Talk 0.9.2.pyw:638
+msgid "Parameters:"
+msgstr ""
+
+#: ..\..\Wabol Talk 0.9.2.pyw:640
+msgid "Primer Length:"
+msgstr ""
+
+#: ..\..\Wabol Talk 0.9.2.pyw:644
+msgid "Hint A:"
+msgstr ""
+
+#: ..\..\Wabol Talk 0.9.2.pyw:648
+msgid "Hint B:"
+msgstr ""
+
+#: ..\..\Wabol Talk 0.9.2.pyw:652
+msgid "K/P Creation:"
+msgstr ""
+
+#: ..\..\Wabol Talk 0.9.2.pyw:656
+msgid "Use Preset Codes"
+msgstr ""
+
+#: ..\..\Wabol Talk 0.9.2.pyw:661
+msgid "Allow Single Hint"
+msgstr ""
+
+#: ..\..\Wabol Talk 0.9.2.pyw:666
+msgid "Allow Double Hints"
+msgstr ""
+
+#: ..\..\Wabol Talk 0.9.2.pyw:671
+msgid "Application:"
+msgstr ""
+
+#: ..\..\Wabol Talk 0.9.2.pyw:675
+msgid "Change Key"
+msgstr ""
+
+#: ..\..\Wabol Talk 0.9.2.pyw:680
+msgid "Change Primer"
+msgstr ""
+
+#: ..\..\Wabol Talk 0.9.2.pyw:685
+msgid "Alter Key/Primer"
+msgstr ""
+
+#: ..\..\Wabol Talk 0.9.2.pyw:690
+msgid "Priority:"
+msgstr ""
+
+#: ..\..\Wabol Talk 0.9.2.pyw:694
+msgid "Create Key First"
+msgstr ""
+
+#: ..\..\Wabol Talk 0.9.2.pyw:699
+msgid "Create Primer First"
+msgstr ""
+
+#: ..\..\Wabol Talk 0.9.2.pyw:704
+msgid "Assign Same Importance"
+msgstr ""
+
+#: ..\..\Wabol Talk 0.9.2.pyw:822
+msgid "Illegal Character"
+msgstr ""
+
+#: ..\..\Wabol Talk 0.9.2.pyw:823
+msgid "Hint {} contains unacceptable text."
+msgstr ""
+
+#: ..\..\Wabol Talk 0.9.2.pyw:828
+msgid "Insecure Password"
+msgstr ""
+
+#: ..\..\Wabol Talk 0.9.2.pyw:829
+msgid "Hint {} must have greater security."
+msgstr ""
+
+#: ..\..\Wabol Talk 0.9.2.pyw:952
+msgid "Language:"
+msgstr ""
+
+#: ..\..\Wabol Talk 0.9.2.pyw:956
+msgid "English"
+msgstr ""
+
+#: ..\..\Wabol Talk 0.9.2.pyw:960
+msgid "Spanish"
+msgstr ""
