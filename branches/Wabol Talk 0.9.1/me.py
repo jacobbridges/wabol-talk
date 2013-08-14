@@ -273,7 +273,7 @@ class _Processor:
         After passing several tests for creating a valid processing object,
         the key is saved, and the primer is used to start an index. Tables
         are also formed for converting byte values between systems."""
-        if self.__class__ is _Processor:
+        if type(self) is _Processor:
             raise NotImplementedError('This is an abstract class!')
         key.test_primer(primer)
         self.__key = key
