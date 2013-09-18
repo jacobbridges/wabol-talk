@@ -34,7 +34,7 @@ class WabolTalk(Frame):
     @classmethod
     def main(cls):
         root = Tk()
-        root.title('Wabol Talk 0.9.1')
+        root.title('Wabol Talk 0.9.1 Beta')
         root.minsize(260, 350)
         root.grid_rowconfigure(0, weight=1)
         root.grid_columnconfigure(0, weight=1)
