@@ -1,3 +1,4 @@
+#! /usr/bin/env python3
 import gettext, builtins
 ENGLISH = gettext.translation('english', '.\\local', ['en'])
 SPANISH = gettext.translation('spanish', '.\\local', ['es'])
