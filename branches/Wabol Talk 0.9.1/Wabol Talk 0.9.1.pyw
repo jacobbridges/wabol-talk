@@ -1,3 +1,4 @@
+#! /usr/bin/env python3
 from tkinter.constants import *
 from settings import *
 from safetkinter import *
